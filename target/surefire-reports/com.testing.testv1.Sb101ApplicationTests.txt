@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.testing.testv1.Sb101ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.174 sec - in com.testing.testv1.Sb101ApplicationTests
